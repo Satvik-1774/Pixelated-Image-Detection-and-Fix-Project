@@ -257,5 +257,5 @@ def main():
     print(f'Validation F1 Score: {f1:.4f}')
 
 # Ensure the script runs when executed directly
-if _name_ == '_main_':
+if __name__ == '__main__':
     main()
