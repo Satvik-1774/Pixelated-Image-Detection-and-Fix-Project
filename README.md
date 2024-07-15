@@ -1,1 +1,0 @@
-# Pixelated-Image-Detection-and-Fix-Project
